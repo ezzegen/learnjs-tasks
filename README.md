@@ -2,7 +2,7 @@
 
 <p>Задачи из учебника  <a href="https://learn.javascript.ru/">"Современный учебник JavaScript"</a>
 
-1.<a href="https://learn.javascript.ru/getting-started"> Введение</a> (задач нет).<br>
+1.<a href="https://learn.javascript.ru/getting-started"> Введение</a> (задач нет).<br><br>
 2.<a href="https://learn.javascript.ru/first-steps"> Основы JavaScript</a>
 <ul type='None'>
   <li>2.1 Привет, мир!</li>
@@ -59,6 +59,28 @@
   <li>5.11 Дата и время</li>
   <li>5.12 Формат JSON, метод toJSON</li>
  </ul>
+6.<a href="https://learn.javascript.ru/advanced-functions"> Продвинутая работа с функциями</a>
+<ul type='None'>
+  <li>6.1 Рекурсия и стек</li>
+  <li>6.2 Остаточные параметры и оператор расширения (задач нет)</li>
+  <li>6.3 Замыкание</li>
+  <li>6.4 Устаревшее ключевое слово "var" (задач нет)</li>
+  <li>6.5 Глобальный объект (задач нет)</li>
+  <li>6.6 Объект функции, NFE</li>
+  <li>6.7 Синтаксис "new Function" (задач нет)</li>
+  <li>6.8 Планирование: setTimeout и setInterval</li>
+  <li>6.9 Декораторы и переадресация вызова, call/apply</li>
+  <li>6.10 Привязка контекста к функции</li>
+  <li>6.11 Повторяем стрелочные функции (задач нет)</li>
+ </ul>
+7.<a href="https://learn.javascript.ru/object-properties"> Свойства объекта, их конфигурация</a> (задач нет).<br><br>
+8.<a href="https://learn.javascript.ru/prototypes"> Прототипы, наследование</a>
+<ul type='None'>
+  <li>8.1 Прототипное наследование</li>
+  <li>8.2 F.prototype</li>
+  <li>8.3 Встроенные прототипы</li>
+  <li>8.4 Методы прототипов, объекты без свойства __proto__</li>
+</ul>
 9.<a href="https://learn.javascript.ru/classes"> Классы</a>
 <ul type='None'>
   <li>9.1 Класс: базовый синтаксис</li>
@@ -68,10 +90,18 @@
   <li>9.5 Расширение встроенных классов (задач нет)</li>
   <li>9.6 Проверка класса: "instanceof"</li>
   <li>9.7 Примеси (задач нет)</li>
- <ul>
-   
-   
-   
+ </ul>
+11.<a href="https://learn.javascript.ru/async"> Промисы, async/await</a>  
+<ul type='None'>
+  <li>11.1 Введение: колбэки (задач нет)</li>
+  <li>11.2 Промисы</li>
+  <li>11.3 Цепочка промисов</li>
+  <li>11.4 Промисы: обработка ошибок</li>
+  <li>11.5 Promise API (задач нет)</li>
+  <li>11.6 Промисификация (задач нет)</li>
+  <li>11.7 Микрозадачи (задач нет)</li>
+  <li>11.8 Async/await</li>
+</ul> 
    
    
    
