@@ -3,7 +3,7 @@
 <p>Задачи из учебника  <a href="https://learn.javascript.ru/">"Современный учебник JavaScript"</a>
 
 1.<a href="https://learn.javascript.ru/getting-started"> Введение</a> (задач нет).<br><br>
-2.<a href="https://learn.javascript.ru/first-steps"> Основы JavaScript</a>
+2.<a href="https://learn.javascript.ru/first-steps"> Основы JavaScript</a><br>
 <ul type='None'>
   <li>2.1 Привет, мир!</li>
   <li>2.2 Структура кода (задач нет)</li>
@@ -24,7 +24,7 @@
   <li>2.17 Стрелочные функции, основы</li>
   <li>2.18 Особенности JavaScript (задач нет)</li>
   </ul>
-3.<a href="https://learn.javascript.ru/code-quality"> Качество кода</a>
+3.<a href="https://learn.javascript.ru/code-quality"> Качество кода</a><br><br>
   <ul type='None'>
     <li>3.1 Отладка в браузере  (задач нет)</li>
     <li>3.2 Советы по стилю кода</li>
@@ -33,7 +33,7 @@
     <li>3.5 Автоматическое тестирование c использованием фреймворка Mocha</li>
     <li>3.6 Полифилы (задач нет)</li>
  </ul>
-4.<a href="https://learn.javascript.ru/object-basics"> Объекты: Основы</a>
+4.<a href="https://learn.javascript.ru/object-basics"> Объекты: Основы</a><br><br>
    <ul type='None'>
     <li>4.1 Объекты</li>
     <li>4.2 Копирование объектов и ссылки (задач нет)</li>
@@ -44,7 +44,7 @@
     <li>4.7 Тип данных Symbol (задач нет)</li>
     <li>4.8 Преобразование объектов в примитивы (задач нет)</li>
    </ul>
-5.<a href="https://learn.javascript.ru/data-types"> Типы данных</a>
+5.<a href="https://learn.javascript.ru/data-types"> Типы данных</a><br><br>
 <ul type='None'>
   <li>5.1 Методы примитивов</li>
   <li>5.2 Числа</li>
@@ -59,7 +59,7 @@
   <li>5.11 Дата и время</li>
   <li>5.12 Формат JSON, метод toJSON</li>
  </ul>
-6.<a href="https://learn.javascript.ru/advanced-functions"> Продвинутая работа с функциями</a>
+6.<a href="https://learn.javascript.ru/advanced-functions"> Продвинутая работа с функциями</a><br><br>
 <ul type='None'>
   <li>6.1 Рекурсия и стек</li>
   <li>6.2 Остаточные параметры и оператор расширения (задач нет)</li>
@@ -74,14 +74,14 @@
   <li>6.11 Повторяем стрелочные функции (задач нет)</li>
  </ul>
 7.<a href="https://learn.javascript.ru/object-properties"> Свойства объекта, их конфигурация</a> (задач нет).<br><br>
-8.<a href="https://learn.javascript.ru/prototypes"> Прототипы, наследование</a>
+8.<a href="https://learn.javascript.ru/prototypes"> Прототипы, наследование</a><br><br>
 <ul type='None'>
   <li>8.1 Прототипное наследование</li>
   <li>8.2 F.prototype</li>
   <li>8.3 Встроенные прототипы</li>
   <li>8.4 Методы прототипов, объекты без свойства __proto__</li>
 </ul>
-9.<a href="https://learn.javascript.ru/classes"> Классы</a>
+9.<a href="https://learn.javascript.ru/classes"> Классы</a><br><br>
 <ul type='None'>
   <li>9.1 Класс: базовый синтаксис</li>
   <li>9.2 Наследование классов</li>
@@ -91,13 +91,6 @@
   <li>9.6 Проверка класса: "instanceof"</li>
   <li>9.7 Примеси (задач нет)</li>
  </ul>
-
- 10.<a href="https://learn.javascript.ru/error-handling"> Обработка ошибок</a>
-<ul type='None'>
-  <li>10.1 Обработка ошибок, "try..catch"</li>
-  <li>10.2 Пользовательские ошибки, расширение Error</li>
-</ul>
-   
 11.<a href="https://learn.javascript.ru/async"> Промисы, async/await</a>  
 <ul type='None'>
   <li>11.1 Введение: колбэки (задач нет)</li>
@@ -109,25 +102,8 @@
   <li>11.7 Микрозадачи (задач нет)</li>
   <li>11.8 Async/await</li>
 </ul> 
-  
-12.<a href="https://learn.javascript.ru/generators-iterators"> Генераторы, продвинутая итерация</a>
-<ul type='None'>
-  <li>12.1 Генераторы</li>
-  <li>12.2 Асинхронные итераторы и генераторы (задач нет)</li>
-</ul>
-
-13.<a href="https://learn.javascript.ru/modules"> Модули</a> (задач нет).<br><br>
-
-14.<a href="https://learn.javascript.ru/js-misc"> Разное</a>
-<ul type='None'>
-<li>14.1 Proxy и Reflect</li>
-<li>14.2 Eval: выполнение строки кода</li>
-<li>14.3 Каррирование (задач нет)</li>
-<li>14.4 Ссылочный тип</li>
-<li>14.5 Побитовые операторы</li>
-<li>14.6 BigInt (задач нет)</li>
-<li>14.7 Юникод, внутреннее устройство строк (задач нет)</li>
-<li>14.8 Intl: интернационализация в JavaScript</li>
-</ul>
+   
+   
+   
    
    
