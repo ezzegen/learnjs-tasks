@@ -91,6 +91,13 @@
   <li>9.6 Проверка класса: "instanceof"</li>
   <li>9.7 Примеси (задач нет)</li>
  </ul>
+ 
+  10.<a href="https://learn.javascript.ru/error-handling"> Обработка ошибок</a>
+<ul type='None'>
+  <li>10.1 Обработка ошибок, "try..catch"</li>
+  <li>10.2 Пользовательские ошибки, расширение Error</li>
+</ul>
+
 11.<a href="https://learn.javascript.ru/async"> Промисы, async/await</a>  
 <ul type='None'>
   <li>11.1 Введение: колбэки (задач нет)</li>
@@ -102,6 +109,26 @@
   <li>11.7 Микрозадачи (задач нет)</li>
   <li>11.8 Async/await</li>
 </ul> 
+
+12.<a href="https://learn.javascript.ru/generators-iterators"> Генераторы, продвинутая итерация</a>
+<ul type='None'>
+  <li>12.1 Генераторы</li>
+  <li>12.2 Асинхронные итераторы и генераторы (задач нет)</li>
+</ul>
+
+13.<a href="https://learn.javascript.ru/modules"> Модули</a> (задач нет).<br><br>
+
+14.<a href="https://learn.javascript.ru/js-misc"> Разное</a>
+<ul type='None'>
+<li>14.1 Proxy и Reflect</li>
+<li>14.2 Eval: выполнение строки кода</li>
+<li>14.3 Каррирование (задач нет)</li>
+<li>14.4 Ссылочный тип</li>
+<li>14.5 Побитовые операторы</li>
+<li>14.6 BigInt (задач нет)</li>
+<li>14.7 Юникод, внутреннее устройство строк (задач нет)</li>
+<li>14.8 Intl: интернационализация в JavaScript</li>
+</ul>
    
    
    
